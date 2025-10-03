@@ -2,7 +2,7 @@ public class ReverseString {
 
     public static void main(String[] args) {
 
-        String name="Selenium";
+        String name="Sel  en  iu  m";
 
         String reverse="";
 
